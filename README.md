@@ -95,3 +95,6 @@ tar -xzf attendance_tracker_demo_archive.tar.gz
 
 - **`setup_project.sh`** — Main Automation script
 - **`README.md`** — Project Documentation
+## Project video
+
+[project video](https://drive.google.com/file/d/1sZP2HH5H3Jwz1JJwuRBAS_iSf99brJeX/view?usp=drive_link)
