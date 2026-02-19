@@ -2,7 +2,7 @@
 
 This project provides a **Bash automation script** that creates a complete Student Attendance Tracker workspace.
 
-##The script:
+## The script:
 
 - Dynamically generates the required directory structure.
 - Creates all necessary source files.
@@ -60,7 +60,8 @@ The script implements a **signal trap** for `SIGINT` (Ctrl+C). If you interrupt 
 1. The script catches the signal instead of terminating abruptly
 2. It bundles the current state of the project directory into a compressed archive named `attendance_tracker_<input>_archive.tar.gz`
 3. It deletes the incomplete project directory to keep your workspace clean
-### Sapmle Test
+
+### Sample Test
 
 ```bash
 $ ./setup_project.sh
@@ -83,6 +84,7 @@ Script interrupted
 bundling the current state of the parent directory into an archive .
 Archive created: attendance_tracker_demo_archive.tar.gz
 Incompleted directory 'attendance_tracker_demo' has been deleted.
+```
 ### Extracting the Archive
 
 To recover the archived project:
