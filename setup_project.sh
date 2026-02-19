@@ -108,7 +108,7 @@ cat <<EOF > "$parent_dir/reports/reports.log"
 EOF
 
 echo " " 
-tree -F 
+tree $parent_dir
 
 # Dynamic configuration (stream editing)
 read -p "do you want to modify attendance threshold?: (Yes/no): " modify_choice
