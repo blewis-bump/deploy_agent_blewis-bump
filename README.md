@@ -67,11 +67,11 @@ The script implements a **signal trap** for `SIGINT` (Ctrl+C). If you interrupt 
 $ ./setup_project.sh
 Enter a project identifier (e.g., c1, cohort2) demo
 
-===creating ridectory strature===
+=creating ridectory strature=
 attendance_checker.py Created
 assets.csv Created
 config.json created
-reports.log Created
+reports.log created
 
 Dynamic Configuration
 
@@ -97,4 +97,4 @@ tar -xzf attendance_tracker_demo_archive.tar.gz
 - **`README.md`** — Project Documentation
 ## Project video
 
-[project video](https://drive.google.com/file/d/1sZP2HH5H3Jwz1JJwuRBAS_iSf99brJeX/view?usp=drive_link)
+[project video](https://drive.google.com/file/d/1sZP2HH5H3Jwz1JJwuRBAS_iSf99brJeX/view?usp=drive_linhttps://github.com/blewis-bump/deploy_agent_blewis-bumpk)
